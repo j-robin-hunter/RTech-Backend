@@ -1,0 +1,20 @@
+{
+  "name": "rtech/neo-admin",
+  "description": "Neo Admin theme registration module for Romatech Magento 2 Website",
+  "homepage": "http://www.romatech.co.uk",
+  "type": "magento2-theme",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robin Hunter",
+      "email": "hello@romatech.co.uk"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+  "rtech/neo-admin": "^1.0"
+  },
+  "autoload": {
+    "files": [ "registration.php" ]
+  }
+}
