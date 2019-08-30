@@ -9,6 +9,7 @@
   <module name="RTech_Backend" setup_version="1.0.0">
     <sequence>
       <module name="Magento_Theme"/>
+      <module name="Magento_Catalog"/>
     </sequence>
   </module>
 </config>
